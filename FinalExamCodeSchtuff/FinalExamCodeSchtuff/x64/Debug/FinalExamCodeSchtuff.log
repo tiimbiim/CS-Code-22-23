@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\timbi\source\repos\FinalExamCodeSchtuff\FinalExamCodeSchtuff\Source.cpp(15,43): warning C4129: 's': unrecognized character escape sequence
+C:\Users\timbi\source\repos\FinalExamCodeSchtuff\FinalExamCodeSchtuff\Source.cpp(15,62): warning C4129: 's': unrecognized character escape sequence
+  FinalExamCodeSchtuff.vcxproj -> C:\Users\timbi\source\repos\FinalExamCodeSchtuff\x64\Debug\FinalExamCodeSchtuff.exe

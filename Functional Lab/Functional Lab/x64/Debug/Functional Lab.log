@@ -1,0 +1,15 @@
+﻿  functional.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\algorithm(3030,49): error C2675: unary '++': '_OutIt' does not define this operator or a conversion to a type acceptable to the predefined operator
+          with
+          [
+              _OutIt=std::string
+          ]
+C:\Users\timbi\source\repos\Functional Lab\Functional Lab\functional.cpp(29): message : see reference to function template instantiation '_OutIt std::transform<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,std::string,int(__cdecl *)(int)>(const _InIt,const _InIt,_OutIt,_Fn)' being compiled
+          with
+          [
+              _OutIt=std::string,
+              _Elem=char,
+              _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _Fn=int (__cdecl *)(int)
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\algorithm(3031,9): error C2100: illegal indirection

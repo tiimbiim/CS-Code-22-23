@@ -1,0 +1,4 @@
+﻿  message.cpp
+C:\Users\timbi\source\repos\anagrams_2\anagrams_2\message.cpp(88,93): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\timbi\source\repos\anagrams_2\anagrams_2\message.cpp(105,109): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  anagrams_2.vcxproj -> C:\Users\timbi\source\repos\anagrams_2\x64\Debug\anagrams_2.exe

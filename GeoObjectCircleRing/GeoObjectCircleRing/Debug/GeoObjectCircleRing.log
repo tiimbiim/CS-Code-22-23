@@ -1,0 +1,4 @@
+﻿  Source.cpp
+T:\mainframe\source\repos\GeoObjectCircleRing\GeoObjectCircleRing\geometricObject.h(44,24): warning C4018: '<': signed/unsigned mismatch
+T:\mainframe\source\repos\GeoObjectCircleRing\GeoObjectCircleRing\geometricObject.h(54,20): warning C4018: '<': signed/unsigned mismatch
+  GeoObjectCircleRing.vcxproj -> T:\mainframe\source\repos\GeoObjectCircleRing\Debug\GeoObjectCircleRing.exe

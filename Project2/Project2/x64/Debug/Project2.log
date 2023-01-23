@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\timbi\source\repos\Project2\Project2\Source.cpp(58,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\timbi\source\repos\Project2\Project2\Source.cpp(89,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\timbi\source\repos\Project2\Project2\Source.cpp(132,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project2.vcxproj -> C:\Users\timbi\source\repos\Project2\x64\Debug\Project2.exe

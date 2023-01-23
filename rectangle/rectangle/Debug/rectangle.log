@@ -1,0 +1,3 @@
+﻿  Source.cpp
+T:\mainframe\source\repos\rectangle\rectangle\rectangle.h(79,21): warning C4018: '<=': signed/unsigned mismatch
+  rectangle.vcxproj -> T:\mainframe\source\repos\rectangle\Debug\rectangle.exe

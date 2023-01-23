@@ -1,0 +1,4 @@
+﻿  Source.cpp
+T:\mainframe\source\repos\soccerPlayerDB\soccerPlayerDB\Source.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+T:\mainframe\source\repos\soccerPlayerDB\soccerPlayerDB\Source.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+  soccerPlayerDB.vcxproj -> T:\mainframe\source\repos\soccerPlayerDB\Debug\soccerPlayerDB.exe

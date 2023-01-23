@@ -1,0 +1,34 @@
+﻿  main.cpp
+C:\Users\timbi\Desktop\tmbm\school\UCI\ICS 45C\Problem#1StarterCode\Calculator.h(123,11): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=char
+          ]
+C:\Users\timbi\Desktop\tmbm\school\UCI\ICS 45C\Problem#1StarterCode\Calculator.h(40): message : while compiling class template member function 'T Calculator<T>::calc(std::vector<char,std::allocator<char>>,std::vector<char,std::allocator<char>>)'
+          with
+          [
+              T=char
+          ]
+C:\Users\timbi\Desktop\tmbm\school\UCI\ICS 45C\Problem#1StarterCode\main.cpp(79): message : see reference to function template instantiation 'T Calculator<T>::calc(std::vector<char,std::allocator<char>>,std::vector<char,std::allocator<char>>)' being compiled
+          with
+          [
+              T=char
+          ]
+C:\Users\timbi\Desktop\tmbm\school\UCI\ICS 45C\Problem#1StarterCode\main.cpp(71): message : see reference to class template instantiation 'Calculator<char>' being compiled
+C:\Users\timbi\Desktop\tmbm\school\UCI\ICS 45C\Problem#1StarterCode\Calculator.h(123,11): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\timbi\Desktop\tmbm\school\UCI\ICS 45C\Problem#1StarterCode\Calculator.h(40): message : while compiling class template member function 'T Calculator<T>::calc(std::vector<T,std::allocator<T>>,std::vector<char,std::allocator<char>>)'
+          with
+          [
+              T=int
+          ]
+C:\Users\timbi\Desktop\tmbm\school\UCI\ICS 45C\Problem#1StarterCode\main.cpp(43): message : see reference to function template instantiation 'T Calculator<T>::calc(std::vector<T,std::allocator<T>>,std::vector<char,std::allocator<char>>)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\timbi\Desktop\tmbm\school\UCI\ICS 45C\Problem#1StarterCode\main.cpp(35): message : see reference to class template instantiation 'Calculator<int>' being compiled
+  45C Final Project 1.vcxproj -> C:\Users\timbi\source\repos\45C Final Project 1\x64\Debug\45C Final Project 1.exe

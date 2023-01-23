@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quadratic Calculator", "Quadratic Calculator\Quadratic Calculator.vcxproj", "{167FB9E9-304D-4296-B29E-4897136989C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{167FB9E9-304D-4296-B29E-4897136989C0}.Debug|x64.ActiveCfg = Debug|x64
+		{167FB9E9-304D-4296-B29E-4897136989C0}.Debug|x64.Build.0 = Debug|x64
+		{167FB9E9-304D-4296-B29E-4897136989C0}.Debug|x86.ActiveCfg = Debug|Win32
+		{167FB9E9-304D-4296-B29E-4897136989C0}.Debug|x86.Build.0 = Debug|Win32
+		{167FB9E9-304D-4296-B29E-4897136989C0}.Release|x64.ActiveCfg = Release|x64
+		{167FB9E9-304D-4296-B29E-4897136989C0}.Release|x64.Build.0 = Release|x64
+		{167FB9E9-304D-4296-B29E-4897136989C0}.Release|x86.ActiveCfg = Release|Win32
+		{167FB9E9-304D-4296-B29E-4897136989C0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9518A175-9D32-4882-804D-6A7A74D42F10}
+	EndGlobalSection
+EndGlobal

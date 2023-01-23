@@ -1,0 +1,5 @@
+﻿  Source.cpp
+T:\mainframe\source\repos\studentClassLoad\studentClassLoad\student.h(53,21): warning C4018: '<': signed/unsigned mismatch
+T:\mainframe\source\repos\studentClassLoad\studentClassLoad\Source.cpp(45,22): warning C4018: '<': signed/unsigned mismatch
+T:\mainframe\source\repos\studentClassLoad\studentClassLoad\Source.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+  studentClassLoad.vcxproj -> T:\mainframe\source\repos\studentClassLoad\Debug\studentClassLoad.exe
